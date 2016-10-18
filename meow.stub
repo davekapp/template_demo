@@ -1,9 +1,12 @@
 <html>
   <header></header>
   <body>
-    <div>Last night, my ::pet:: ::pet_sound:: three times.</div>
+    <h1>Notification about your ::pet::</h1>
+    <div>We would be happy to assist with your pet and its ::pet_sound::.</div>
     <br/>
     <div>It was very adorable, but I was very busy with ::distraction::, so I had to just pet my ::pet:: and not pay much attention.</div>
+    <br/>
+    <div> Thank you for being a Telnyx customer!</div>
     <br/>
     <div>::closing_statement::</div>
   </body>
